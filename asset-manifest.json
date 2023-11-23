@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jungle-house/static/css/main.8ab947f8.css",
+    "main.js": "/jungle-house/static/js/main.f88bdb83.js",
+    "static/media/olivier.jpg": "/jungle-house/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/basil.jpg": "/jungle-house/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/jungle-house/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/jungle-house/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/monstera.jpg": "/jungle-house/static/media/monstera.ec0819da398bc9469040.jpg",
+    "static/media/lyrata.jpg": "/jungle-house/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/jungle-house/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/jungle-house/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/jungle-house/static/media/succulent.f4329849930298a9e46b.jpg",
+    "static/media/sun.svg": "/jungle-house/static/media/sun.0922d8139b642363c45edcd658e28aa0.svg",
+    "static/media/water.svg": "/jungle-house/static/media/water.b7abd8058455acf5f8680f798b8f3ccb.svg",
+    "index.html": "/jungle-house/index.html",
+    "main.8ab947f8.css.map": "/jungle-house/static/css/main.8ab947f8.css.map",
+    "main.f88bdb83.js.map": "/jungle-house/static/js/main.f88bdb83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ab947f8.css",
+    "static/js/main.f88bdb83.js"
+  ]
+}
