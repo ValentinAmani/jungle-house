@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jungle-house/static/css/main.8ab947f8.css",
-    "main.js": "/jungle-house/static/js/main.f88bdb83.js",
+    "main.css": "/jungle-house/static/css/main.999e832d.css",
+    "main.js": "/jungle-house/static/js/main.0e4e403a.js",
     "static/media/olivier.jpg": "/jungle-house/static/media/olivier.b2908b40d9fb7f86626b.jpg",
     "static/media/basil.jpg": "/jungle-house/static/media/basil.be00474e950eb5af0054.jpg",
     "static/media/cactus.jpg": "/jungle-house/static/media/cactus.a71c2062a926cb3d5db8.jpg",
@@ -14,11 +14,11 @@
     "static/media/sun.svg": "/jungle-house/static/media/sun.0922d8139b642363c45edcd658e28aa0.svg",
     "static/media/water.svg": "/jungle-house/static/media/water.b7abd8058455acf5f8680f798b8f3ccb.svg",
     "index.html": "/jungle-house/index.html",
-    "main.8ab947f8.css.map": "/jungle-house/static/css/main.8ab947f8.css.map",
-    "main.f88bdb83.js.map": "/jungle-house/static/js/main.f88bdb83.js.map"
+    "main.999e832d.css.map": "/jungle-house/static/css/main.999e832d.css.map",
+    "main.0e4e403a.js.map": "/jungle-house/static/js/main.0e4e403a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ab947f8.css",
-    "static/js/main.f88bdb83.js"
+    "static/css/main.999e832d.css",
+    "static/js/main.0e4e403a.js"
   ]
 }
