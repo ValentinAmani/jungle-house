@@ -21,13 +21,13 @@ function Footer() {
       <div className="jh-footer-elem">
         Pour les passionné·e·s de plantes 🌿🌱🌵
       </div>
-      <div className="jh-footer-elem">Laissez-nous votre mail :</div>
+      {/* <div className="jh-footer-elem">Laissez-nous votre mail :</div>
       <input
         placeholder="Entrez votre mail"
         onChange={handleInput}
         value={inputValue}
         onBlur={handleBlur}
-      />
+      /> */}
     </footer>
   );
 }

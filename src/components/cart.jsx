@@ -26,11 +26,11 @@ function Cart({ cart, updateCart }) {
           <ul>
             {cart.map(({ name, price, amount }, index) => (
               <div key={`${name}-${index}`}>
-                {name} {price}€ x {amount}
+                {name} {price}€ x {amount} &nbsp;&nbsp;
               </div>
             ))}
           </ul>
-          <h3>Total :{total}€</h3>
+          <h3>Total : {total}€</h3>
           <button onClick={() => updateCart([])}>Vider le panier</button>
         </div>
       ) : (
@@ -39,10 +39,7 @@ function Cart({ cart, updateCart }) {
     </div>
   ) : (
     <div className="jh-cart-closed">
-      <button
-        className="jh-cart-toggle-button"
-        onClick={() => setIsOpen(true)}
-      >
+      <button className="jh-cart-toggle-button" onClick={() => setIsOpen(true)}>
         Ouvrir le Panier
       </button>
     </div>

@@ -33,3 +33,27 @@
 .jh-cart-closed > button {
   color: black;
 }
+
+@media screen and (max-width: 996px) {
+  .jh-cart {
+    width: auto;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+  .jh-cart div > ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .jh-cart-closed {
+    background-color: #ffffff;
+    padding: 32px;
+    width: auto;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+}
